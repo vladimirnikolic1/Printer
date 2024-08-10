@@ -17,7 +17,7 @@ Weight | wght | 400 | Regular
 
 ![Image](documentation/image2.png)
 
-![Image](documentation/image4.png)
+![Image](documentation/image3.png)
 
 ## License
 
