@@ -1,6 +1,8 @@
 
 #  Printer
 
+# Printer Typeface
+
 ![Image](documentation/image1.png)
 
 In computing, a printer is a peripheral machine which makes a durable representation of graphics or text, usually on paper.
