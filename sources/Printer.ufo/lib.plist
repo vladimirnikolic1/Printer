@@ -98,8 +98,6 @@
     <string>abreve</string>
     <string>germandbls</string>
     <string>bracketleft</string>
-    <string>bracketright</string>
-    <string>backslash</string>
     <string>bar</string>
     <string>Euro</string>
     <string>zdotaccent</string>
@@ -119,7 +117,6 @@
     <string>eacute</string>
     <string>edieresis</string>
     <string>ecaron</string>
-    <string>icircumflex</string>
     <string>iacute</string>
     <string>nacute</string>
     <string>ncaron</string>
@@ -127,7 +124,6 @@
     <string>Racute</string>
     <string>Aacute</string>
     <string>Abreve</string>
-    <string>Adieresis</string>
     <string>Lacute</string>
     <string>Cacute</string>
     <string>Ccedilla</string>
@@ -137,16 +133,12 @@
     <string>Edieresis</string>
     <string>Ecaron</string>
     <string>Iacute</string>
-    <string>Icircumflex</string>
     <string>Nacute</string>
     <string>Ncaron</string>
     <string>eogonek</string>
     <string>uacute</string>
-    <string>uhungarumlaut</string>
-    <string>udieresis</string>
     <string>yacute</string>
     <string>Uacute</string>
-    <string>Uhungarumlaut</string>
     <string>Udieresis</string>
     <string>Yacute</string>
     <string>Rcaron</string>
@@ -154,21 +146,16 @@
     <string>aogonek</string>
     <string>scedilla</string>
     <string>Scedilla</string>
-    <string>scaron</string>
-    <string>Scaron</string>
     <string>trademark</string>
     <string>dagger</string>
     <string>daggerdbl</string>
     <string>lslash</string>
-    <string>Lslash</string>
     <string>Zdotaccent</string>
     <string>paragraph</string>
     <string>Uring</string>
     <string>ring</string>
     <string>uring</string>
-    <string>undercommaaccent</string>
     <string>lcaron</string>
-    <string>Lcaron</string>
     <string>at</string>
     <string>hungarumlaut</string>
     <string>divide</string>
@@ -177,8 +164,6 @@
     <string>quotedblbase</string>
     <string>eth</string>
     <string>O</string>
-    <string>Oslash</string>
-    <string>oslash</string>
     <string>ydieresis</string>
     <string>Thorn</string>
     <string>thorn</string>
@@ -193,8 +178,6 @@
     <string>Egrave</string>
     <string>igrave</string>
     <string>Igrave</string>
-    <string>idieresis</string>
-    <string>Idieresis</string>
     <string>ograve</string>
     <string>Ograve</string>
     <string>cdotaccent</string>
@@ -210,8 +193,6 @@
     <string>yen</string>
     <string>gbreve</string>
     <string>Gbreve</string>
-    <string>gcircumflex</string>
-    <string>Gcircumflex</string>
     <string>edotaccent</string>
     <string>Edotaccent</string>
     <string>ebreve</string>
@@ -224,8 +205,6 @@
     <string>amacron</string>
     <string>Amacron</string>
     <string>macron.case</string>
-    <string>ohungarumlaut</string>
-    <string>Ohungarumlaut</string>
     <string>ubreve</string>
     <string>umacron</string>
     <string>Umacron</string>
@@ -238,10 +217,8 @@
     <string>Wgrave</string>
     <string>Wacute</string>
     <string>Wdieresis</string>
-    <string>ycircumflex</string>
     <string>uogonek</string>
     <string>Uogonek</string>
-    <string>Ycircumflex</string>
     <string>minus</string>
     <string>Hbar</string>
     <string>hbar</string>
@@ -264,7 +241,6 @@
     <string>plusminus</string>
     <string>less</string>
     <string>ampersand</string>
-    <string>parenright</string>
     <string>underscore</string>
     <string>asciicircum</string>
     <string>greater</string>
@@ -293,15 +269,12 @@
     <string>itilde</string>
     <string>Itilde</string>
     <string>ldot</string>
-    <string>Ldot</string>
     <string>Tcaron</string>
     <string>utilde</string>
     <string>Utilde</string>
     <string>asterisk</string>
     <string>dcaron</string>
-    <string>Dcaron</string>
     <string>uni0000</string>
-    <string>uni000D</string>
     <string>gravecomb</string>
     <string>acutecomb</string>
     <string>uni0302</string>
@@ -313,7 +286,6 @@
     <string>uni030A</string>
     <string>uni030B</string>
     <string>uni030C</string>
-    <string>uni0326</string>
     <string>uni0327</string>
     <string>uni0328</string>
     <string>Germandbls</string>
@@ -326,8 +298,6 @@
     <string>Ucircumflex</string>
     <string>ccircumflex</string>
     <string>Ccircumflex</string>
-    <string>hcircumflex</string>
-    <string>Hcircumflex</string>
     <string>ocircumflex</string>
     <string>Ocircumflex</string>
     <string>jcircumflex</string>
@@ -336,6 +306,53 @@
     <string>Wcircumflex</string>
     <string>aring</string>
     <string>Aring</string>
+    <string>hcircumflex</string>
+    <string>Hcircumflex</string>
+    <string>uhungarumlaut</string>
+    <string>Uhungarumlaut</string>
+    <string>uni0163</string>
+    <string>uni0162</string>
+    <string>uni021A</string>
+    <string>uni021B</string>
+    <string>uni0219</string>
+    <string>uni0218</string>
+    <string>kgreenlandic</string>
+    <string>uni0137</string>
+    <string>Dcaron</string>
+    <string>ohungarumlaut</string>
+    <string>Ohungarumlaut</string>
+    <string>Lcaron</string>
+    <string>uni013C</string>
+    <string>uni013B</string>
+    <string>scircumflex</string>
+    <string>Scircumflex</string>
+    <string>guillemotright</string>
+    <string>guillemotleft</string>
+    <string>uni0157</string>
+    <string>uni0156</string>
+    <string>uni0146</string>
+    <string>parenright</string>
+    <string>bracketright</string>
+    <string>Oslash</string>
+    <string>oslash</string>
+    <string>quotesinglbase</string>
+    <string>scaron</string>
+    <string>Scaron</string>
+    <string>uni0136</string>
+    <string>gcircumflex</string>
+    <string>Gcircumflex</string>
+    <string>uni0145</string>
+    <string>Lslash</string>
+    <string>Ldot</string>
+    <string>ycircumflex</string>
+    <string>Ycircumflex</string>
+    <string>udieresis</string>
+    <string>Adieresis</string>
+    <string>backslash</string>
+    <string>icircumflex</string>
+    <string>Icircumflex</string>
+    <string>idieresis</string>
+    <string>Idieresis</string>
   </array>
 </dict>
 </plist>
