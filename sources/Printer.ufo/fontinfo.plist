@@ -44,7 +44,7 @@
   </dict>
   </array>
   <key>openTypeHeadCreated</key>
-  <string>2024/08/17 08:12:24</string>
+  <string>2024/08/24 16:28:53</string>
   <key>openTypeHeadFlags</key>
   <array>
     <integer>0</integer>
@@ -192,6 +192,6 @@
   <key>versionMinor</key>
   <integer>0</integer>
   <key>xHeight</key>
-  <integer>431</integer>
+  <integer>565</integer>
 </dict>
 </plist>
